@@ -4,9 +4,9 @@
     
    # DateMatch / 蛋散預約器
 
-   ### dansan-time-reserver
+   ### dansan-timereserve
     
-   A tool for who often not matching hang out time with Friends.
+   Tool for whom not matching hang out time.
    
    ### v0.200-alpha
   </div>
